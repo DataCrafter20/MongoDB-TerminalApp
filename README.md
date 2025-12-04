@@ -83,8 +83,7 @@ MongoDB-TerminalApp/
 ├── README.md # Project documentation
 └── requirements.txt # Dependencies
 
-yaml
-Copy code
+
 
 ---
 
