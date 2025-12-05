@@ -22,7 +22,7 @@ This project offers both **local MongoDB** support and **MongoDB Atlas** cloud s
 
 ---
 
-## ✨ Why This Project Stands Out
+## ✨ Why This Project:
 
 This isn’t just another CRUD project — it's built as a **learning toolkit** for working with real MongoDB databases.  
 It features:
