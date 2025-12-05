@@ -203,9 +203,6 @@ Got ideas for improvements?
 New MongoDB operations you want to add?
 Pull requests are welcome!
 
-📜 License
-This project is licensed under the MIT License.
-
 👤 Authors
 DataCrafter20
 Purplerain-design
